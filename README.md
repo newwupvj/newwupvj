@@ -88,6 +88,12 @@
   <a href="https://github.com/newwupvj">
     <img src="https://img.shields.io/badge/GitHub-newwupvj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://portfolio-alayavaro.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Alayavaro_Rachmadia-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/alayavarorachmadia/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alayavaro_Rachmadia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
