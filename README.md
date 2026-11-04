@@ -1,10 +1,10 @@
 <!-- Header animasi gelombang -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Alayavaro%20Rachmadia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Kotlin%20%7C%20Web%20API&descAlignY=55&descAlign=50" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Alayavaro%20Rachmadia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Kotlin%20%7C%20Full-Stack%20Web&descAlignY=55&descAlign=50" alt="Header"/>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/newwupvj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alayavaro+Rachmadia+%F0%9F%91%8B;Android+Developer+%7C+Kotlin+Enthusiast;Building+Mobile+Apps+%26+Web+APIs;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alayavaro+Rachmadia+%F0%9F%91%8B;Android+%26+Full-Stack+Web+Developer;Building+Mobile+Apps%2C+Web+Apps+%26+APIs;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
