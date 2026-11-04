@@ -18,7 +18,8 @@
 ### 👨‍💻 About Me
 
 - 📱 Fokus utama: **Pengembangan Android dengan Kotlin**
-- 🌐 Juga mengerjakan **Web API (Python)** dan **DevOps / PHP**
+- 🌐 Juga bisa membuat **web full-stack** — pengalaman kolaborasi pada proyek web (TypeScript/JavaScript, PostgreSQL)
+- 🛠️ Juga mengerjakan **Web API (Python)** dan **DevOps / PHP**
 - 🎓 Suka mengerjakan proyek kelompok — dari aplikasi *m-banking*, *food order*, sampai *load-balanced web API*
 - 💡 Prinsip: bikin aplikasi yang rapi, cepat, dan gampang dipakai
 - 🌱 Lagi mendalami: Android Architecture, REST API, dan deployment
@@ -32,6 +33,9 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
