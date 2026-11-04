@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/newwupvj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alayavaro+Rachmadia+%F0%9F%91%8B;Android+%26+Full-Stack+Web+Developer;Building+Mobile+Apps%2C+Web+Apps+%26+APIs;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alayavaro+Rachmadia;Android+%26+Full-Stack+Web+Developer;Building+Mobile+Apps%2C+Web+Apps+%26+APIs;Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,19 +15,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 📱 Fokus utama: **Pengembangan Android dengan Kotlin**
-- 🌐 Juga bisa membuat **web full-stack** — pengalaman kolaborasi pada proyek web (TypeScript/JavaScript, PostgreSQL)
-- 🛠️ Juga mengerjakan **Web API (Python)** dan **DevOps / PHP**
-- 💼 Pernah membuat **KLAY (Skalar)** — sistem manajemen keuangan & operasional web untuk UMKM: dashboard Owner, PWA kasir Operator, dan aplikasi Entry/Login (Next.js, TypeScript)
-- 🎓 Suka mengerjakan proyek kelompok — dari aplikasi *m-banking*, *food order*, sampai *load-balanced web API*
-- 💡 Prinsip: bikin aplikasi yang rapi, cepat, dan gampang dipakai
-- 🌱 Lagi mendalami: Android Architecture, REST API, dan deployment
+Fokus utama saya adalah pengembangan Android dengan Kotlin. Di sisi lain, saya juga mengerjakan web full-stack, dengan pengalaman kolaborasi pada proyek web berbasis TypeScript, JavaScript, dan PostgreSQL, serta Web API dengan Python dan DevOps dengan PHP.
+
+Salah satu proyek yang pernah saya kerjakan adalah KLAY (Skalar), sistem manajemen keuangan dan operasional web untuk UMKM, yang mencakup dashboard Owner, PWA kasir Operator, dan aplikasi Entry/Login. Saya terbiasa mengerjakan proyek kelompok, dari aplikasi m-banking dan food order sampai Web API dengan load balancing. Prinsip kerja saya cukup sederhana: aplikasi harus rapi, cepat, dan gampang dipakai, dan saya masih terus mendalami Android Architecture, REST API, dan deployment.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -47,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=newwupvj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -64,7 +60,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <picture>
@@ -74,11 +70,9 @@
   </picture>
 </p>
 
-> Snake di atas baru muncul setelah workflow di `.github/workflows/snake.yml` jalan pertama kali (biasanya 5-10 menit setelah di-push).
-
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Proyek | Deskripsi | Tech |
 |---|---|---|
@@ -91,7 +85,7 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://github.com/newwupvj">
